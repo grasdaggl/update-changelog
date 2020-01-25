@@ -1,0 +1,11 @@
+{
+  "latestVersion": "2.5.2",
+  "latestVersionCode": "33",
+  "url": "https://github.com/grasdaggl/Quibbie/releases",
+  "releaseNotes": [
+       "- Michi war hier",
+       "- automatische Auslesung hidden Beta eingebaut",
+       "- Test",
+       "- Fallback für Googleaussperrung"
+           ]
+}
