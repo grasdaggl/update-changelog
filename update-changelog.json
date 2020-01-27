@@ -1,11 +1,11 @@
 {
-  "latestVersion": "2.5.2",
-  "latestVersionCode": "33",
+  "latestVersion": "2.5.3",
+  "latestVersionCode": "34",
   "url": "https://drive.google.com/drive/folders/1A2DMeAbeoawPxaT7QXd79Sh0M4soYs3w?usp=sharing",
   "releaseNotes": [
-       "- Michi war hier",
+       "- H4CK3D BY M1CH!",
        "- automatische Auslesung hidden Beta eingebaut",
-       "- Test",
-       "- Fallback für Googleaussperrung"
+       "- BingApi für nurFrag, aktivierbar in Settings",
+       "- Vibrator wenn Ergebnis da. 1 sek. für Direkttreffer, 0.5 sek. für mitAnt Treffer"
            ]
 }
