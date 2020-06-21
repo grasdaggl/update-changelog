@@ -1,8 +1,9 @@
 {
-  "latestVersion": "2020-06-21 15-45-debug",
+  "latestVersion": "1",
+  "latestVersionCode": "12",
   "url": "https://drive.google.com/drive/folders/1A2DMeAbeoawPxaT7QXd79Sh0M4soYs3w?usp=sharing",
   "releaseNotes": [
-       "- H4CK3D BY M1CH!",
+       "- test",
        "- automatische Auslesung hidden Beta eingebaut",
        "- BingApi für nurFrag, aktivierbar in Settings",
        "- Vibrator wenn Ergebnis da. 1 sek. für Direkttreffer, 0.5 sek. für mitAnt Treffer"
